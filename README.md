@@ -1,6 +1,4 @@
-# Pixel-Art
-
-# Image Mosaic Project
+# Pixel-Art: Image Mosaic Project
 
 ## Overview
 
